@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>png/button_cancel.png</file>
+        <file>png/button_ok.png</file>
+        <file>png/error.png</file>
+        <file>png/filenew.png</file>
+        <file>png/fileprint.png</file>
+        <file>png/filesave.png</file>
+        <file>png/settings.png</file>
+        <file>png/edit.png</file>
+        <file>png/lists.png</file>
+        <file>png/main.png</file>
+        <file>png/pupils.png</file>
+        <file>png/search.png</file>
+        <file>png/add.png</file>
+        <file>png/meas.png</file>
+    </qresource>
+</RCC>
